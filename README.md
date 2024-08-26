@@ -1,5 +1,5 @@
 <p align='center'>
-  English | <a href="https://github.com/TencentCloud/virtualman-render-demo/blob/main/README.zh-CN.md">中文</a>
+  English | <a href="https://github.com/TencentCloud/virtualman-render-mini-programs/blob/main/README.zh-CN.md">中文</a>
 </p>
 
 # Applet webView embedded in Tencent Cloud Digital Intelligence H5 project demo

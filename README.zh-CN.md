@@ -2,7 +2,7 @@
  <a href="https://github.com/TencentCloud/virtualman-render-demo/blob/main/README.md"> English</a> | 中文
 </p>
 
-# 微信小程序webView嵌入腾讯云数智人H5项目 使用示例
+# 小程序webView嵌入腾讯云数智人H5项目 使用示例
 
 本项目包含端渲染和服务器渲染两种方式。其中端渲染参考[client-render-demo](https://github.com/TencentCloud/virtualman-render-demo/tree/main/client-render-demo)，服务器渲染参考[server-render-demo](https://github.com/TencentCloud/virtualman-render-demo/tree/main/server-render-demo)
 
@@ -15,7 +15,7 @@
 
 ### 环境要求
 
-微信小程序。
+小程序。
 
 ### 安装
 

@@ -2,7 +2,7 @@
   English | <a href="https://github.com/TencentCloud/virtualman-render-demo/blob/main/README.zh-CN.md">中文</a>
 </p>
 
-# Tencent Cloud Virtual Man render H5 demo
+# Applet webView embedded in Tencent Cloud Digital Intelligence H5 project demo
 
 This project includes both client-side rendering and server-side rendering methods. For client-side rendering, refer to [client-render-demo](https://github.com/TencentCloud/virtualman-render-demo/tree/main/client-render-demo), and for server-side rendering, refer to[server-render-demo](https://github.com/TencentCloud/virtualman-render-demo/tree/main/server-render-demo)
 
@@ -15,7 +15,7 @@ This project includes both client-side rendering and server-side rendering metho
 
 ### Environment Requirements
 
-Chrome
+Mini Program
 
 ### Installation
 
@@ -71,3 +71,6 @@ Copy the project code to your local machine.
 
 ### Speech Recognition Capability
  If you need to enable ASR, you need to add the secretId, secretKey, and appId parameters in the URL parameters.
+
+## WeChat applet embed
+[Mini Program Embedding Solution](https://developers.weixin.qq.com/miniprogram/dev/component/web-view.html)
